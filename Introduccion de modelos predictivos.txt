@@ -1,0 +1,12 @@
+Modelos predictivos
+Este tipo de análisis utiliza métodos matemáticos para pronosticar eventos o resultados futuros. Mediante un proceso iterativo, se desarrolla el modelo predictivo mediante un conjunto de datos de entrenamiento y después se prueba y se valida para determinar su precisión con el fin de realizar los mejores pronóstico
+
+Cada minuto en el mundo
+Los usarios de facebook comparten 25000000 fragmentos de contenido 
+.- Se suben 72 horas de videos en youtube 
+.- se crean 2.5 exabytes de información (I exabyte =18) 
+.- Necesitaríamos un millón de discos duros de 1 tb para guardaros! 
+.- Cada vez que alguien compra en amazon, recibe un pago en pypal 
+,ect, se crean datos e información 
+1)Analisis retrospredictivo: La historia que lleva 
+2)Analisis predictivo: son datos actuales 

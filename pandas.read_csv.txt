@@ -1,0 +1,26 @@
+dataframe = pd.read_csv(
+    "G:/Data Science/Codificación/python-ml-course-master/datasets/titanic/titanic3.csv",
+    sep=",",dtype={"pclass":float
+})
+names={"ingresos","egresos"}#esto sirve para ponerle nombre a las columnas si no tiene nombre y no inicias desde la primera columna 
+dtype={"ingresos":Int} #esto te ayuda a convertir un datopor ejemplo de int o float 
+
+header =None# cabecera se dice que fila se va usar como cabecera 
+header=0// esto dice que la cabecera será la primera fila y debes poner los nombres 
+skiprows=None// puede ser un entero o lista 
+// skiprows = 12 esto significa que se salta a la fila 13 desde ahí comienza 
+index_col=None// este es un numero o una secuencia
+skip_blank_lines=True o False// si es true se saltan los valores en blanco 
+// False pone los valores en blanco y esta en defecto
+
+na_filter =True o False // elimina la filas que contengan valores nulos o string vacios 
+// si es true pero por defecto esta en Flase
+
+error_bad_lines///Las líneas con demasiados campos (por ejemplo, una línea csv con demasiadas comas) provocarán de forma predeterminada que se genere una excepción y no se devolverá ningún DataFrame. Si es False, estas "líneas incorrectas" se eliminarán del DataFrame que se devuelve.
+
+# esto ve los nombres de las columnas 
+data2.columns.values
+print(data2.columns.values)
+
+dtype es para convertir los datos a un tipo de dato
+dataframe.head()

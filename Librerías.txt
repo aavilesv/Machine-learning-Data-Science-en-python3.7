@@ -1,0 +1,15 @@
+// librerias para ciencias de los datos 
+// 
+https://pandas.pydata.org/docs/
+// arreglos y todo los matematico 
+https://numpy.org/
+// esta es  para generar graficas en 2 d y 3d
+https://matplotlib.org/
+// calculos interactivos grafica, implatación de modelos 
+https://ipython.org/
+// modelos pedrictivos estadisiticos 
+https://scikit-learn.org/stable/
+// los dataset estan aquí 
+https://github.com/joanby/python-ml-course
+## Con la libreria sklearn estadistica praa hacer testeo
+from sklearn.cross_validation import train_test_split
