@@ -3,7 +3,7 @@
 
 
 Veremos paso a paso como empezar a trabajar con conceptos y algoritmos del mundo del Machine Learning. Con cada nueva clase y sección que completes tendrás unas nuevas habilidades que te ayudarán a entender este mundo tan completo y lucrativo que puede ser esta rama del Data Science.
-<h2 align="center"> - Evolución histórica del análisis predictivo y el machine learning</h2>
+<h2 align="center"> Parte 2 - Evolución histórica del análisis predictivo y el machine learning</h2>
 <h2 align="center">Parte 3 - Pre procesado y limpieza de los datos </h2>
 <h2 align="center">Parte 4 - Manejo de datos y data wrangling, operaciones con datasets y distribuciones de probabilidad más famosas</h2>
 <h2 align="center">Parte 5 - Repaso de estadística básica, intervalos de confianza, contrastes de hipótesis, correlación,...</h2>
