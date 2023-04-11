@@ -53,10 +53,10 @@ outfile =mainpath+"/"+"customer-churn-model/Tab Customer Churn Model.txt"
 with  open(infile,"r") as infile1:
     with  open(outfile,"w") as outfile1:
         for line in infile1:
-            fileds=line.strip().split(",")
+            fileds=line.strip().split(",")# es la división
             #join hace la funcion de unir 
-            outfile1.write("/t".join(fileds))
-            outfile1.write("\n")
+            outfile1.write("/t".join(fileds))#
+            outfile1.write("\n")#salto de linea
             
 dt4 = pd.read_csv(outfile,sep="/t")
 dt4.head()
