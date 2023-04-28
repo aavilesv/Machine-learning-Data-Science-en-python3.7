@@ -1,6 +1,6 @@
 # Machine-learning-Data-Science-en-python3.7
-https://github.com/joanby/python-ml-course/blob/master/.gitattributes
-https://github.com/joanby/r-basic
+<h2 align="center"> https://github.com/joanby/python-ml-course/blob/master/.gitattributes </h2>
+<h2 align="center">  https://github.com/joanby/r-basic </h2>
 
 Veremos paso a paso como empezar a trabajar con conceptos y algoritmos del mundo del Machine Learning. Con cada nueva clase y sección que completes tendrás unas nuevas habilidades que te ayudarán a entender este mundo tan completo y lucrativo que puede ser esta rama del Data Science.
 <h2 align="center"> Parte 2 - Evolución histórica del análisis predictivo y el machine learning</h2>
